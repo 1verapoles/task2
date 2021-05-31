@@ -13,8 +13,8 @@ let A = [
   
 let rows = A.length;
 let columns = A[0].length;
-let endX = columns - 1;
-let endY = rows - 1;
+let endX = rows - 1;
+let endY = columns - 1;
 let newRow;
 let newCol;
 let Q = [];
